@@ -11,3 +11,15 @@ From financial performance to customer engagement and operational metrics, these
 
 📁 [Download Dataset (Google Drive)](https://drive.google.com/drive/folders/18ysEY6ZIe23WfpObn74MFOd3J6pJDl6S?usp=sharing)  
 This folder contains the raw data used for creating the dashboards, including sales, customer, and financial transaction records.
+
+
+   
+## 👨‍💻 Author
+
+**Utkrisht Jalan**  
+Aspiring Data Analyst skilled in SQL, Python, Power BI, and Excel.  
+[GitHub Profile](https://github.com/Utkrisht2026)
+
+---
+
+## ⭐ If you found this useful, don't forget to star this repo!
